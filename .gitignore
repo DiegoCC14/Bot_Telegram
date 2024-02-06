@@ -1,0 +1,2 @@
+# Ignorar archivos dentro de entorno virtual tanto carpetas como subcarpetas que contengan venv
+venv/
